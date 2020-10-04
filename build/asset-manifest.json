@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.da3fd194.chunk.css",
-    "main.js": "/static/js/main.a0279610.chunk.js",
-    "main.js.map": "/static/js/main.a0279610.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1a265c15.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1a265c15.js.map",
-    "static/js/2.81bb1de8.chunk.js": "/static/js/2.81bb1de8.chunk.js",
-    "static/js/2.81bb1de8.chunk.js.map": "/static/js/2.81bb1de8.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7c0e4afed656bd977f8afe0e0fc7bc92.js": "/precache-manifest.7c0e4afed656bd977f8afe0e0fc7bc92.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.da3fd194.chunk.css.map": "/static/css/main.da3fd194.chunk.css.map",
-    "static/js/2.81bb1de8.chunk.js.LICENSE.txt": "/static/js/2.81bb1de8.chunk.js.LICENSE.txt"
+    "main.css": "/vit-1982/goit-react-hw-01-components/static/css/main.da3fd194.chunk.css",
+    "main.js": "/vit-1982/goit-react-hw-01-components/static/js/main.a0279610.chunk.js",
+    "main.js.map": "/vit-1982/goit-react-hw-01-components/static/js/main.a0279610.chunk.js.map",
+    "runtime-main.js": "/vit-1982/goit-react-hw-01-components/static/js/runtime-main.e5b5866f.js",
+    "runtime-main.js.map": "/vit-1982/goit-react-hw-01-components/static/js/runtime-main.e5b5866f.js.map",
+    "static/js/2.baea20f1.chunk.js": "/vit-1982/goit-react-hw-01-components/static/js/2.baea20f1.chunk.js",
+    "static/js/2.baea20f1.chunk.js.map": "/vit-1982/goit-react-hw-01-components/static/js/2.baea20f1.chunk.js.map",
+    "index.html": "/vit-1982/goit-react-hw-01-components/index.html",
+    "precache-manifest.e2b49c09a2a40be530d1e71f9db267c1.js": "/vit-1982/goit-react-hw-01-components/precache-manifest.e2b49c09a2a40be530d1e71f9db267c1.js",
+    "service-worker.js": "/vit-1982/goit-react-hw-01-components/service-worker.js",
+    "static/css/main.da3fd194.chunk.css.map": "/vit-1982/goit-react-hw-01-components/static/css/main.da3fd194.chunk.css.map",
+    "static/js/2.baea20f1.chunk.js.LICENSE.txt": "/vit-1982/goit-react-hw-01-components/static/js/2.baea20f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a265c15.js",
-    "static/js/2.81bb1de8.chunk.js",
+    "static/js/runtime-main.e5b5866f.js",
+    "static/js/2.baea20f1.chunk.js",
     "static/css/main.da3fd194.chunk.css",
     "static/js/main.a0279610.chunk.js"
   ]
