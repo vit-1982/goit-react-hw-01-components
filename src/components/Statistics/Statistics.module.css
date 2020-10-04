@@ -1,0 +1,36 @@
+.section {
+  width: fit-content;
+  margin: 50px auto;
+  background-color: #f7f7f7;
+}
+
+.title {
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  line-height: 100px;
+}
+
+.statList {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  color: #f7f7f7;
+}
+
+.item {
+  height: 80px;
+  width: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.label {
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.percentage {
+  font-size: 20px;
+}
